@@ -1,4 +1,4 @@
-# Online Learning Platform - 
+# Online Learning Platform Using Mern 
 NMID: F9CAE28AC0EFDDE82EC4B497470DDCEC
 
 **EduSphere** is a comprehensive online learning platform designed using the MERN stack (MongoDB, Express.js, React, Node.js). The platform supports different user roles including students, teachers, and administrators, facilitating a seamless educational experience.
